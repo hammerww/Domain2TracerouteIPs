@@ -28,9 +28,13 @@ Obtiene IPs de salto para llegar a un dominio
 
 
 
-<h3 align="left">Resultados</h3>
+<h3 align="left">Ejecucion</h3>
 <p align="left">
 </p>
 
 ![img1](https://user-images.githubusercontent.com/94805546/193424643-7cfb8970-1c45-4ead-9c11-f21311f593a1.jpg)
 
+
+<h3 align="left">Resultados</h3>
+<p align="left">
+</p>
